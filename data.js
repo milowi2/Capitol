@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-street-view-360",
-      "name": "Street View 360",
+      "id": "0-capitol-theatre",
+      "name": "Capitol Theatre",
       "levels": [
         {
           "tileSize": 256,
@@ -28,19 +28,19 @@ var APP_DATA = {
       ],
       "faceSize": 3328,
       "initialViewParameters": {
-        "yaw": -2.3656825484116304,
-        "pitch": 0.13568416644439552,
-        "fov": 1.3311425642675518
+        "yaw": 3.094413619978271,
+        "pitch": -0.4582919613613736,
+        "fov": 1.440286512203505
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Capitol Theatre",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": false
+    "viewControlButtons": true
   }
 };
